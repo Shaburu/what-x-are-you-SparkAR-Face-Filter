@@ -7,7 +7,10 @@ This is from the YouTube video.
   How the Filter Works
 </h1>
 
+<h1>
 <a href="https://www.instagram.com/shaburux/">Made for Red Bull</a>
 
 https://github.com/Shaburu/what-x-are-you-SparkAR-Face-Filter/assets/67481819/8100e167-c407-4bea-b54c-3c96cd4f4d25
+
+</h1>
 
