@@ -10,7 +10,6 @@ https://github.com/Shaburu/what-x-are-you-SparkAR-Face-Filter/assets/67481819/ae
 
 
   How the Filter Works
-  <h3> At Runtime the </h3>
 </h1>
 
 <h1>
